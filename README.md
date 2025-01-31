@@ -1,5 +1,8 @@
 # Auftrag_31.01.25ZLI_DOKU
 
+## Arbeitsauftrag
+![ Arbeitsauftrag](PXL_20250131_082246522.MP~2.jpg)
+
 ##### 1. REPO Erstellen
 ##### 2. ISOs Brennen
 ##### 3. Linux server und client
