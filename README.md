@@ -8,7 +8,7 @@
 ##### 1. REPO Erstellen
 ##### 2. ISOs Brennen
 ##### 3. Linux server und client
-##### 4. 
+##### 4. Router konfigurieren
 ##### 5.
 ##### 6.
 ##### 7.
@@ -29,4 +29,4 @@ biss Jörg uns sagte, dass wir das HDMI Kabel nicht ans Mainboard sondern and di
 ## 4. Router konfigurieren
 Als nächstes begann Andrija mit der Konfiguration des Routers. Die Ip des Routers lautet nun ip: 192.168.1.1 und subnetz: 255.255.255.0. 
 
-## 5.
+## 5. 
