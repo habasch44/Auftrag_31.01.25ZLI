@@ -1,7 +1,6 @@
 
-[TOC] 
-
-## 1te Checkliste zu Homeoffice
+<!-- TOC -->
+<!-- /TOC -->
 
 # Auftrag_31.01.25ZLI_DOKU
 
