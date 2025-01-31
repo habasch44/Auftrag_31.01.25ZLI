@@ -1,8 +1,9 @@
-
-<!-- TOC -->
-<!-- /TOC -->
-
 # Auftrag_31.01.25ZLI_DOKU
+
+## 1. REPO Erstellen
+## 2.
+## 3.
+## 4. 
 
 ## 1.REPO Erstellen
 Als allererstes erstellten wir unsere Repository, und fügten das Ganze Team als Collaborators.
